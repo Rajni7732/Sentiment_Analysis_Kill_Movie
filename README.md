@@ -37,7 +37,7 @@ To replicate this analysis, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git](https://github.com/Rajni7732/Sentiment_Analysis_Kill_Movie
+   git clone https://github.com/Rajni7732/Sentiment_Analysis_Kill_Movie
    
 Install Dependencies:
 
@@ -52,12 +52,12 @@ nltk.download('vader_lexicon')
 Run the Analysis:
 
 Execute the Jupyter Notebook (sentiment_analysis.ipynb) to perform the sentiment analysis on the movie reviews.
-Files
+
 sentiment_analysis.ipynb: Jupyter Notebook with the Python code for sentiment analysis.
+
 movie_reviews.csv: CSV file containing the movie reviews dataset.
-README.md: This file.
-Results
-The project outputs sentiment scores for each review and overall sentiment classifications. These results can be further visualized using tools like Tableau or Power BI for deeper insights.
+
+Results : The project outputs sentiment scores for each review and overall sentiment classifications. These results can be further visualized using tools like Tableau or Power BI for deeper insights.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
