@@ -37,7 +37,7 @@ To replicate this analysis, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Rajni7732/Sentiment_Analysis_Kill_Movie
+   https://github.com/Rajni7732/Sentiment_Analysis_Kill_Movie
    
 Install Dependencies:
 
